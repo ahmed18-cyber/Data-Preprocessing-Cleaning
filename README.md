@@ -82,7 +82,7 @@ Install the following tools:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/data-preprocessing-cleaning.git
+git clone git@github.com:ahmed18-cyber/Data-Preprocessing-Cleaning.git
 cd Data-Preprocessing-Cleaning
 ```
 
