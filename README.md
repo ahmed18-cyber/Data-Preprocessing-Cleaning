@@ -86,7 +86,6 @@ git clone git@github.com:ahmed18-cyber/Data-Preprocessing-Cleaning.git
 cd Data-Preprocessing-Cleaning
 ```
 
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
 ### 2. Set up the backend
 
